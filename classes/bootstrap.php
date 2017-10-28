@@ -217,12 +217,7 @@ class Bootstrap {
 
     return $options['sbv_options']['ban_all']['exception']['country'];
   }
-
-  //Method to get user's information from ipinfo.io.
-  public function get_user_info() {
-
-  }
-
+  
   //Method to get user's country code.
   public function users_cc() {
 

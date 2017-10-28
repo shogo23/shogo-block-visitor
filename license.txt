@@ -1,4 +1,4 @@
-Shogo Forms - Form Submission for Wordpress.
+Shogo's Block Visitor.
 
 Copyright (C) 2017 by Victor Caviteno.
 

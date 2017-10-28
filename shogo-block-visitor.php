@@ -6,7 +6,7 @@
 * Author: Victor Caviteno
 * Author URI : http://www.facebook.com/gervic23
 * Plugin URI: http://www.github.com/shogo23
-* Version: 1.0
+* Version: 1.01
 * Tested up to: 4.8
 */
 
